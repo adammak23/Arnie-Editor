@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296098264802",
+    "project_id": "arnie-adventures",
+    "storage_bucket": "arnie-adventures.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296098264802:android:df9cfbc26467928dded0bb",
+        "android_client_info": {
+          "package_name": "com.arnieedu.ARnie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwI3W9TxU2Fc743-kaaAjagRk7n7a4EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
